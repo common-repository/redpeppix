@@ -1,0 +1,166 @@
+# Copyright (C) 2010
+# This file is distributed under the same license as the redpeppix.-package.
+# redpeppix GmbH & Co KG <suppport@redpeppix.de>, 2010
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2\n"
+"Report-Msgid-Bugs-To: suppport@redpeppix.de\n"
+"POT-Creation-Date: 2010-11-10 11:51+0100\n"
+"PO-Revision-Date: 2012-04-03 16:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/admin.php:33
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: admin/admin.php:40
+msgid "To activate the PIX-technology on your blog you have to insert the PIX-key."
+msgstr "To activate the PIX-technology on your blog you have to insert the PIX-key."
+
+#: admin/settings.php:18
+#: admin/settings.php:39
+msgid "No changes have been made."
+msgstr "No changes have been made."
+
+#: admin/settings.php:24
+#: admin/settings.php:50
+msgid "Your settings have been saved."
+msgstr "Your settings have been saved."
+
+#: admin/settings.php:26
+#: admin/settings.php:52
+msgid "Your settings could not be saved."
+msgstr "Your settings could not be saved."
+
+#: admin/settings.php:63
+msgid "pixoona Configuration"
+msgstr "pixoona Configuration"
+
+#: admin/settings.php:77
+msgid "redpeppix. PIX-key"
+msgstr "redpeppix. PIX-key"
+
+#: admin/settings.php:82
+msgid "You have no valid PIX-key."
+msgstr "You have no valid PIX-key."
+
+#: admin/settings.php:83
+msgid "This is very simple. All you have to do is:"
+msgstr "This is very simple. All you have to do is:"
+
+#: admin/settings.php:83
+msgid "There you will find your PIX-key. Copy this PIX-key now."
+msgstr "There you will find your PIX-key. Copy this PIX-key now."
+
+#: admin/settings.php:83
+msgid "Come back to this page and enter your PIX-key."
+msgstr "Come back to this page and enter your PIX-key."
+
+#: admin/settings.php:83
+msgid "Enter your CREATOR-Center and go to the tab 'PIX-technology on blog'."
+msgstr "Enter your CREATOR-Center and go to the tab 'PIX-technology on blog'."
+
+#: admin/settings.php:83
+msgid "Enter your PIX-key:"
+msgstr "Enter your PIX-key:"
+
+#: admin/settings.php:84
+msgid "Cancel"
+msgstr "Cancel"
+
+#: admin/settings.php:85
+msgid "Save"
+msgstr "Save"
+
+#: admin/settings.php:87
+msgid "Domain is locked"
+msgstr "Domain is locked"
+
+#: admin/settings.php:88
+msgid "Sign up or login to %s."
+msgstr "Sign up or login to %s."
+
+#: admin/settings.php:92
+msgid "Your PIX-key has been verified."
+msgstr "Your PIX-key has been verified."
+
+#: admin/settings.php:93
+msgid "Edit PIX-key"
+msgstr "Edit PIX-key"
+
+#: admin/settings.php:103
+msgid "PIXSETTING rights"
+msgstr "PIXSETTING rights"
+
+#: admin/settings.php:103
+msgid "Define your PIXSETTING rights"
+msgstr "Define your PIXSETTING rights"
+
+#: admin/settings.php:110
+msgid "Activate/deactivate the PIX-technology on your blog"
+msgstr "Activate/deactivate the PIX-technology on your blog"
+
+#: admin/settings.php:112
+msgid "Not active"
+msgstr "Not active"
+
+#: admin/settings.php:113
+msgid "Active"
+msgstr "Active"
+
+#: admin/settings.php:118
+msgid "You decide if you soley are allowed to set PIX on your blog or if you release the PIXSETTING function to other PIXSETTERs."
+msgstr "You decide if you soley are allowed to set PIX on your blog or if you release the PIXSETTING function to other PIXSETTERs."
+
+#: admin/settings.php:118
+msgid "PIXSETTING-Community"
+msgstr "PIXSETTING-Community"
+
+#: admin/settings.php:119
+msgid "PIXSETTING only you as CREATOR"
+msgstr "PIXSETTING only you as CREATOR"
+
+#: admin/settings.php:119
+msgid "PIXSETTING open for Community"
+msgstr "PIXSETTING open for Community"
+
+#: admin/settings.php:118
+msgid "PIX-delay"
+msgstr "PIX-delay"
+
+#: admin/settings.php:123
+msgid "If you release the PIXSETTING you can define if you want to have a delay of 24 hours. In your CREATOR-Center in the redpeppix. Office you get an overview of all PIX set which you can release or delete."
+msgstr "If you release the PIXSETTING you can define if you want to have a delay of 24 hours. In your CREATOR-Center in the redpeppix. Office you get an overview of all PIX set which you can release or delete."
+
+#: admin/settings.php:125
+msgid "24 hour PIX-delay"
+msgstr "24 hour PIX-delay"
+
+#: admin/settings.php:129
+msgid "PIX-scope on your blog"
+msgstr "PIX-scope on your blog"
+
+#: admin/settings.php:129
+msgid "Limited PIX-scope"
+msgstr "Limited PIX-scope"
+
+#: admin/settings.php:130
+msgid "Define if you want to release the PIXSETTING on your blog in total, like on the layout pictures of the blog theme or if you want to limit it on your posts and comments."
+msgstr "Define if you want to release the PIXSETTING on your blog in total, like on the layout pictures of the blog theme or if you want to limit it on your posts and comments."
+
+#: admin/settings.php:132
+msgid "activate PIXSETTING limiter"
+msgstr "activate PIXSETTING limiter"
+
+#: admin/settings.php:135
+msgid "Update settings"
+msgstr "Update settings"
+
+msgid "You need at least WordPress Version %s to run the pixoona plugin."
+msgstr "You need at least WordPress Version %s to run the pixoona plugin."
+
